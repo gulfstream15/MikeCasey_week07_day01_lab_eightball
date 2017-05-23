@@ -15,6 +15,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".AnswerActivity"
+            android:label="@string/answer_activity_title"
+            android:parentActivityName=".MainActivity">
+        </activity>
     </application>
 
 </manifest>

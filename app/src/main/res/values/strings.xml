@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">EightBall</string>
+    <string name="app_name">Magic 8 Ball</string>
+    <string name="label_name">8 Ball</string>
+    <string name="question_hint">Ask a question...</string>
+    <string name="button_text">Shake me, persons!</string>
+    <string name="answer_activity_title">Answers</string>
 </resources>
